@@ -23,10 +23,8 @@
   
 </div>
 
-
 ## Status
 ![Chagas Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=FChJunior&show_icons=true&theme=Gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FChJunior&layout=compact)](https://github.com/FChJunior/github-readme-stats)
 
 ## Tecnologias:
 <div style="display: inline_block"><br/>
