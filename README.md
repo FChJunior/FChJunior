@@ -25,6 +25,7 @@
 
 ## Status
 ![Chagas Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=FChJunior&show_icons=true&theme=Gradient)
+![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&hide_title=true&theme=radical)
 
 ## Tecnologias:
 <div style="display: inline_block"><br/>
