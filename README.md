@@ -33,7 +33,7 @@
 -
   <img align="center" alt="C#" heigth = 60 width = 60 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  -
-  <img align="center" alt="Arduino" heigth = 60 width = 60 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img align="center" alt="Arduino" heigth = 60 width = 60 src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>
  -
   <img align="center" alt="C++" heigth = 60 width = 60 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
    -
