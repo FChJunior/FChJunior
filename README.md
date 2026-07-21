@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Game Developer 👾.<br>- I have a Game Development Team @OldVillageGameStudio 🎮.<br>- I work as an Instructor for Mechatronics Technician and Digital Game Programming Technician at @Senai-CE 🧑‍🏫<br>- Graduated in Mechatronics Technician from @Senai-CE ⚡🧑‍🔧.<br>- Graduated in Systems Analysis and Development from @Descomplica👨‍💻.<br>- Mentor and Advisor of Innovation Projects at @Senai-Ce 🚀.<br>- Mentor of the Robotics team at FRC @9162 - All Might 🧡🖤🤖.</p>
+<p align="left">- Game Developer 👾.<br>- I have a Game Development Team @OldVillageGameStudio 🎮.<br>- I work as an Instructor for Mechatronics Technician and Digital Game Programming Technician at @Senai-CE 🧑‍🏫<br>- Graduated in Mechatronics Technician from @Senai-CE ⚡🧑‍🔧.<br>- Graduated in Systems Analysis and Development from @Descomplica👨‍💻.<br>- Mentor and Advisor of Innovation Projects at @Senai-Ce 🚀.
 
 ###
 
